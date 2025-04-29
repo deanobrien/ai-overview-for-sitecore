@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35617.110
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeanOBrien.Feature.AiOverview", "src\Feature\DeanOBrien.Feature.AiOverview\DeanOBrien.Feature.AiOverview.csproj", "{26EC7928-444E-45CE-B007-3C8034F9E06E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeanOBrien.Foundation.DataAccess.AiOverview", "src\Foundation\DataAccess\DeanOBrien.Foundation.DataAccess.AiOverview\DeanOBrien.Foundation.DataAccess.AiOverview.csproj", "{88943535-1C38-4FED-AB60-70DDF7791FC3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		AI Overview for Sitecore.zip = AI Overview for Sitecore.zip
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26EC7928-444E-45CE-B007-3C8034F9E06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26EC7928-444E-45CE-B007-3C8034F9E06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26EC7928-444E-45CE-B007-3C8034F9E06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26EC7928-444E-45CE-B007-3C8034F9E06E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88943535-1C38-4FED-AB60-70DDF7791FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88943535-1C38-4FED-AB60-70DDF7791FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88943535-1C38-4FED-AB60-70DDF7791FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88943535-1C38-4FED-AB60-70DDF7791FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {986F07EA-4589-4BFA-8554-08EF3D91D2B5}
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Caching.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.1\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.ServiceBus.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Configuration.6.0.1304.0\lib\NET45
+	EndGlobalSection
+EndGlobal
