@@ -2,6 +2,7 @@
 
 ![AI Overview](https://deanobrien.uk/wp-content/uploads/2025/04/ai-overview.jpg)
 
+This Sitecore Module allows you to add a 'google' style AI Overview component to search pages. Returning a GenAI response to the search based solely on your own data.
 Some of the key benefits of this module are as follows: 
 
  - Create multiple data sources
