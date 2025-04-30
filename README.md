@@ -1,6 +1,6 @@
 # AI Overview For Sitecore
 
-![AI Overview](https://deanobrien.uk/wp-content/uploads/2025/04/ai-overview-no-border.jpg)
+![AI Overview](https://deanobrien.uk/wp-content/uploads/2025/04/ai-overview-black-border.jpg)
 
 Some of the key benefits of this module are as follows: 
 
